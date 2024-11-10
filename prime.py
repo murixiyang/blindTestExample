@@ -6,7 +6,7 @@ def is_prime(num):
             return False
     return True
 
-def print_primes(n):
+def print_prime(n):
     primes = []
     for num in range(2, n + 1):
         if is_prime(num):
