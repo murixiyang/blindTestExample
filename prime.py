@@ -15,4 +15,4 @@ def print_prime(n):
 
 # Input from the user
 n = int(input("Enter a number: "))
-print("Prime numbers from 1 to", n, "are:", print_primes(n))
+print("Prime numbers from 1 to", n, "are:", print_prime(n))
